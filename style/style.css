@@ -125,6 +125,45 @@ menu{
   margin-left: 20px;
  }
 
+ /* choice item  */
+
+ .image-1{
+  margin-top: 80px;
+  display: flex;
+  width: 48%;
+  gap: 4%;
+  height: 400px;
+ }
+ .image-1 img{
+  border-radius: 20px;
+ }
+  .maldivs{
+  position: relative;
+ }
+ .maldivs P{
+  position: absolute;
+  top: 35%;
+  left: 40%;
+  color: #FFF;
+  font-size: 28px;
+  font-weight: 800;
+ } 
+ .indonisia{
+  position: relative;
+ }
+ .indonisia P{
+  position: absolute;
+  top: 35%;
+  left: 40%;
+  color: #FFF;
+  font-size: 28px;
+  font-weight: 800;
+ } 
+ .image-2{
+  display: grid;
+  grid-template-columns:  1fr 2fr 1fr;
+  width: 100%;
+ }
 
 
 
